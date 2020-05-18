@@ -1,3 +1,3 @@
 <?php
-$str = 'Hello Team';
+$str = 'Hello QA Team';
 echo $str;
