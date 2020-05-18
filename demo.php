@@ -1,2 +1,3 @@
 <?php
-echo 'Hello';
+$str = 'Hello Team';
+echo $str;
